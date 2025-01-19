@@ -2,17 +2,22 @@
 
 This repository contains an in-depth analysis of Airbnb listings aimed at optimizing rental strategies, enhancing customer satisfaction, and maximizing revenue for property owners. The project leverages Airbnb’s dataset to provide insights on pricing, demand trends, and customer preferences, with results visualized through a Tableau dashboard for actionable decision-making.
 
+## Dataset Link:
+https://drive.google.com/file/d/1ltX1OMugXbAkc7CBJVlL1o5QAtZv31Rm/view
+
 ## Problem Statement
 As a Data Analyst at Airbnb, the objective of this project is to generate valuable insights from Airbnb's dataset, helping both Airbnb and property hosts improve decision-making through optimized rental strategies, enhanced customer satisfaction, and increased host revenue.
 
 ## Analysis Goals
 
 Prepare Tableau Calculations and Analysis for the Following:
-1. **Neighborhood Popularity and Pricing**: Identify high-demand areas and analyze how pricing varies across different locations.
-2. **Property Type Distribution**: Examine the demand for various property types (e.g., entire homes, private rooms).
-3. **Customer Satisfaction and Ratings**: Analyze the relationship between listing prices and review ratings to uncover factors driving customer satisfaction.
-4. **Seasonality and Booking Trends**: Track booking trends throughout the year to identify seasonal demand patterns.
-5. **Host and Listing Analysis**: Determine which hosts have the most listings and compare their pricing strategies.
+
+1. **Neighborhood Popularity and Pricing**: Identify which areas have the most listings and analyze how pricing varies across different locations.
+2. **Property Type Distribution**: Investigate the different types of properties (entire homes, private rooms, shared rooms) and understand which types are most in demand.
+3. **Customer Satisfaction and Ratings**: Explore the relationship between listing prices and customer review ratings to identify factors contributing to higher customer satisfaction.
+4. **Seasonality and Booking Trends**: Analyze how Airbnb listings and bookings fluctuate throughout the year to detect seasonal trends.
+5. **Host and Listing Analysis**: Determine which hosts have the highest number of listings and how their pricing strategies compare.
+6. **Impact of Amenities on Pricing**: Understand how the presence of certain amenities influences listing prices.
 
 ## Data Overview
 
